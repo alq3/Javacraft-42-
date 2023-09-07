@@ -29,6 +29,14 @@ public class JavaCraft {
   private static final String ANSI_GRAY = "\u001B[37m";
   private static final String ANSI_WHITE = "\u001B[97m";
 
+  /* 
+   * 
+   * 
+   * 
+   * 
+   * 
+   * 
+   */
   private static final String BLOCK_NUMBERS_INFO = "Block Numbers:\n" +
       "0 - Empty block\n" +
       "1 - Wood block\n" +
